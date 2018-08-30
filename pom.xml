@@ -6,7 +6,11 @@
 
     <groupId>com.deutsche</groupId>
     <artifactId>spring-training</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>never_use_switch</module>
+    </modules>
 
 
     <properties>
